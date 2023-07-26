@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu desafio</title>
+</head>
+<body>
+    <h1>Lua</h1>
+    <img src="img/Moon.jpg" alt="Paisagem de uma Lua sobre um lago">
+    <p>Uma foto que mostra uma lua sobre um lago, com nuvens no céu e vegetação ao redor.</p>
+    <ul>
+        <li>Lua</li>
+        <li>Lago</li>
+        <li>Vegetação</li>
+        <li>Nuvens</li>
+    </ul>
+</body>
+</html>
